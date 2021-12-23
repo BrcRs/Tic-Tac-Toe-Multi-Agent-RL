@@ -5,5 +5,5 @@ Dans le cadre du cours COCOMA du master ANDROIDE de Sorbonne Université, nous a
 ou jeu du morpion. Le projet part du tutoriel du site de la librarie `pettingzoo` : https://www.pettingzoo.ml/tutorials.
 
 ## Authors
-Emmanuelle Amann (@manuama)
-Bruce Rose (@BrcRs)
+- Emmanuelle Amann (@manuama)
+- Bruce Rose (@BrcRs)
